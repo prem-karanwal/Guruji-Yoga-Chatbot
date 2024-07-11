@@ -31,3 +31,5 @@ The inspiration for creating Guruji came from the desire to promote physical and
 ## Conclusion
 
 Developing Guruji was a rewarding experience that allowed us to combine our interests in AI, web development, and wellness. The project not only enhanced our technical skills but also provided a meaningful tool that can help users incorporate yoga into their daily lives. We are excited about the potential of Guruji to make a positive impact and look forward to continuing to improve and expand its capabilities.
+
+![image](https://github.com/prem-karanwal/Guruji-Yoga-Chatbot/assets/113821428/94f0dbc4-3c2d-42a7-b61b-aa5bf55e2952)
