@@ -1,4 +1,4 @@
-**Guruji - Your Virtual Yoga Mentor**
+# Guruji - Yoga-Chatbot
 
 ## Inspiration
 
